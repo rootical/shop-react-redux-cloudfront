@@ -14,7 +14,7 @@ function Copyright() {
                 href="https://material-ui.com/"
                 underline="hover"
             >
-                YO YO Store
+                Cloudfront Store
             </Link>{" "}
             {new Date().getFullYear()}
             {"."}
